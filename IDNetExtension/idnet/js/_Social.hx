@@ -16,8 +16,8 @@ class _Social extends SocialBase {
 	// Static helper variables
 	//
 	private static inline var SCRIPT_ID:String = 'id-jssdk';
-	private static inline var HTTP_API_PATH:String = 'http://cdn.id.net/api/sdk.js';
-	private static inline var HTTPS_API_PATH:String = 'https://scdn.id.net/api/sdk.js';
+	private static inline var HTTP_API_PATH:String = 'http://cdn.y8.com/api/sdk.js';
+	private static inline var HTTPS_API_PATH:String = 'https://cdn.y8.com/api/sdk.js';
 
 	
 	//

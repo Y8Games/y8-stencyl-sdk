@@ -1,6 +1,6 @@
 name=IDNet
-description=IDNet SDK Wrapper
+description=Y8 SDK Wrapper. Formerly IdNet
 author=Codir
-website=http://www.id.net
-version=1.0
+website=http://www.y8.com
+version=1.1
 compatibility=all
