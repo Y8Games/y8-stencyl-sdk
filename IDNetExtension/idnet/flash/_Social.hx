@@ -83,7 +83,7 @@ class _Social extends SocialBase {
 			context.securityDomain = SecurityDomain.currentDomain;
 		}
 		
-		var sdkUrl:String = "https://www.id.net/swf/idnet-client.swc?=" + Date.now();
+		var sdkUrl:String = "https://cdn.y8.com/swf/idnet-client.swc?=" + Date.now();
 		var request:URLRequest = new URLRequest(sdkUrl);
 		var loader:Loader = new Loader();
 		loader.contentLoaderInfo.addEventListener(Event.COMPLETE, onSWCLoaded);
